@@ -1,4 +1,4 @@
-#Automated Stock Portfolio Manager: A Python Toolkit for Scheduling and Tracking Investments
+
 # Automated Stock Portfolio Manager: A Python Toolkit for Scheduling and Tracking Investments
 
 This project is designed to help users automate the process of downloading and managing their stock portfolio data. It provides tools to schedule downloads, save relevant stock data to a designated folder, and notify users of updates to their stock portfolios.
