@@ -32,18 +32,16 @@ Run the main script to start the automation process:
 - **data_handling.py**: Manages and processes downloaded stock data.
 
 ## Contributing
-We welcome contributions to this project. Please follow the steps below:
+**We welcome contributions to this project. Please follow the steps below:**
 1. Fork the repository
 2. Create a new branch (`git checkout -b feature-branch`)
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin feature-branch`)
 5. Create a new Pull Request
 
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Contact
-For support or queries, reach out to us at [contact@email.com].
+For support or queries, reach out to us at [shashankkv98@gmail.com]
 
 ## Acknowledgments
 - Thanks to financial modeling prep API for providing stock market data.
