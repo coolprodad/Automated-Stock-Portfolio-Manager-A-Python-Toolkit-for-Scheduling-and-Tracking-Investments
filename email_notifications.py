@@ -20,9 +20,9 @@ def send_email(subject, body, to_email, from_email, password):
     server.quit()
 
 # Environment variables for email credentials
-from_email = os.getenv('EMAIL_ADDRESS', 'shashankkv98@gmail.com')
-password = os.getenv('EMAIL_PASSWORD', 'Titan#10081998')
-to_email = 'kvshashank10081998@gmail.com'
+from_email = os.getenv('EMAIL_ADDRESS', 'Your Email')
+password = os.getenv('EMAIL_PASSWORD', 'Your Password')
+to_email = 'To email address'
 subject = 'Stock Update for Every One Hour'
 body = 'As for your request, here are the updates on your stock portfolio.'
 
